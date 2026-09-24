@@ -8,4 +8,4 @@ Prosty program napisany w Pythonie, który pobiera od użytkownika trzy liczby w
 1. Upewnij się, że masz zainstalowane środowisko Python 3.
 2. Pobierz repozytorium i uruchom plik:
    ```bash
-   python main.py
+   python kolejne_binarne.py
